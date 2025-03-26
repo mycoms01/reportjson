@@ -1,0 +1,29 @@
+{
+    "status": {
+        "statusCode": 200,
+        "statusText": "Ok",
+        "message": "โอเค"
+    },
+    "pagination": {
+        "totalCount": 0,
+        "pageSize": 9999,
+        "totalPages": 0,
+        "pageNumber": 1
+    },
+    "data": {
+        "title":{
+            "projectName":"",
+            "updatedAt":"ณ วันที่  day -1",
+            "recordAt":"ข้อมูลตั้งแต่วันที่"
+        },
+        "items": [
+            {
+                "title": "ประเภทงาน",
+                "total": "จำนวน",
+                "percent": "เปอร์เซ็นต์"
+            }
+        ],
+        "total": "จำนวน",
+        "timestampUpdatedAt": ""
+    }
+}

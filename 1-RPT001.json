@@ -1,0 +1,31 @@
+{
+    "status": {
+        "statusCode": 200,
+        "statusText": "Ok",
+        "message": "โอเค"
+    },
+    "pagination": {
+        "totalCount": 0,
+        "pageSize": 9999,
+        "totalPages": 0,
+        "pageNumber": 1
+    },
+    "data": {
+        "title":{
+            "projectName":"",
+            "updatedAt":"ณ วันที่  day -1",
+            "recordAt":"ข้อมูลตั้งแต่วันที่"
+        },
+        "items": [
+            {
+                "title": "สถานะงาน",
+                "residing": "งานแจ้งบริการ:พักอาศัย",
+                "central": "งานแจ้งบริการ:ส่วนกลาง",
+                "total": "งานแจ้งบริการ",
+                "percent": "เปอร์เซ็นต์"
+            }
+        ],
+        "total": "งานแจ้งบริการ",
+        "timestampUpdatedAt": ""
+    }
+}
